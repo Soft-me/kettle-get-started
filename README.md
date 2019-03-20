@@ -1,7 +1,8 @@
 # kettle-get-started
 Kettle 使用突破性的元数据驱动方法，提供强大的提取、转换和加载(ETL)功能。
 
-那什么是 ETL 呢，维基百科概括的很好：
+## 概述
+什么是 ETL 呢，维基百科概括的很好：
 
 >ETL
 >ETL，是英文Extract-Transform-Load的缩写，用来描述将数据从来源端经过萃取（extract）、转置（transform）、加载（load）至目的端的过程。
@@ -26,4 +27,25 @@ Kettle 使用突破性的元数据驱动方法，提供强大的提取、转换�
 Kettle 从最早2007年开始，一直维护到现在，每周有1000的下载量，算是很流行的工具了。
 虽说解放生产力，但前期也还是要投入一些学习成本，本教程希望通过分享我在工作中学到的经验和技巧，让大家少走弯路，减少成本，加快投入成产~
 
-Let’s get started with installation.
+# Getting Started
+* [什么是 Kettle 及如何安装](https://blog.csdn.net/qq_41599820/article/details/88536614)
+* [准备数据库](https://blog.csdn.net/qq_41599820/article/details/88668011)
+* [实战 PDI 第一讲](https://blog.csdn.net/qq_41599820/article/details/88683015)
+* [实战 PDI 第二讲](https://blog.csdn.net/qq_41599820/article/details/88685263)
+* [实战 PDI 第三讲](https://blog.csdn.net/qq_41599820/article/details/88690772)
+* [收尾](https://blog.csdn.net/qq_41599820/article/details/88691406)
+
+## 作者
+
+**Wayne Jiang** - [CSDN博客 金华松软的我](https://blog.csdn.net/qq_41599820)
+
+## 捐献
+
+如果你觉得教程对你有用，可以支付宝鼓励鼓励我哈哈哈哈哈
+
+<a href="https://github.com/debugjoker">  
+    <img src="http://n.sinaimg.cn/front/320/w560h560/20190104/NUZz-hqzxptp5276515.gif" width="200px">
+</a>
+<a href="https://github.com/debugjoker">  
+    <img src="https://github.com/Soft-me/kettle-get-started/blob/master/0190320163922.png" width="200px">
+</a>
