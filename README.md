@@ -30,9 +30,9 @@ Kettle 从最早2007年开始，一直维护到现在，每周有1000的下载�
 # Getting Started
 * [什么是 Kettle 及如何安装](https://blog.csdn.net/qq_41599820/article/details/88536614)
 * [准备数据库](https://blog.csdn.net/qq_41599820/article/details/88668011)
-* [实战 PDI 第一讲](https://blog.csdn.net/qq_41599820/article/details/88683015)
-* [实战 PDI 第二讲](https://blog.csdn.net/qq_41599820/article/details/88685263)
-* [实战 PDI 第三讲](https://blog.csdn.net/qq_41599820/article/details/88690772)
+* [实战 Kettle 第一讲](https://blog.csdn.net/qq_41599820/article/details/88683015)
+* [实战 Kettle 第二讲](https://blog.csdn.net/qq_41599820/article/details/88685263)
+* [实战 Kettle 第三讲](https://blog.csdn.net/qq_41599820/article/details/88690772)
 * [收尾](https://blog.csdn.net/qq_41599820/article/details/88691406)
 
 ## 作者
